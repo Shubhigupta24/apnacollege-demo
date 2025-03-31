@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author - Shubhi Gupta
+Author - Shubhi Maurya
+git 
